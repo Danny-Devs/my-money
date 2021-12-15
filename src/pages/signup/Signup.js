@@ -32,7 +32,7 @@ export default function Signup() {
           required
         />
       </label>
-      <label></label>
+      <label>
         <span>username:</span>
         <input
           type='text'
@@ -41,7 +41,7 @@ export default function Signup() {
           required
         />
       </label>
-      <button className="btn">Submit</button>
+      <button className='btn'>Submit</button>
     </form>
   )
 }
